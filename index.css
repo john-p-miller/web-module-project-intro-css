@@ -18,3 +18,25 @@ font-size: 100%;
 font: inherit;  
 vertical-align: baseline;  
 }
+
+nav div {
+    display:inline-block;
+    margin-right:10%;
+    margin-left:10%;
+    padding:1em;
+    border-radius: 2em;
+    margin-top:3em;
+    
+}
+nav {
+text-align:center;
+}
+#plan {
+    background-color:#ff764e;
+}
+#learn{
+    background-color: #5ed3eb;
+}
+#get{
+    background-color: #ffcd69;
+}
