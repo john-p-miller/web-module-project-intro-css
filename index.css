@@ -20,16 +20,16 @@ vertical-align: baseline;
 }
 
 nav div {
-    display:inline-block;
-    margin-right:10%;
-    margin-left:10%;
+
+    
     padding:1em;
     border-radius: 2em;
     margin-top:3em;
     
 }
 nav {
-text-align:center;
+display:flex;
+justify-content: space-evenly;
 }
 #plan {
     background-color:#ff764e;
@@ -39,4 +39,14 @@ text-align:center;
 }
 #get{
     background-color: #ffcd69;
+}
+.yoscontainer{
+    display:flex;
+    margin-top:2em;
+}
+
+#header{
+    border-radius:50%;
+    width:25%;
+
 }
