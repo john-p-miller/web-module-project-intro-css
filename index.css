@@ -66,12 +66,15 @@ p{
     margin-bottom:2em;
     
 }
+#bottomnav{
+    background-color:#f9e7dc
+}
 #campfire, #bus{
     width:15%;
     margin:0 auto;
 }
 .secondtext{
-    margin:0 35%;
+    margin:0 35% 2em;
     text-align: center;
 }
 #brownbox{
