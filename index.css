@@ -18,7 +18,14 @@ font-size: 100%;
 font: inherit;  
 vertical-align: baseline;  
 }
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+#maintext
+{
+    text-align:center;
 
+}
 nav div {
 
     
@@ -43,6 +50,12 @@ justify-content: space-evenly;
 .yoscontainer{
     display:flex;
     margin-top:2em;
+
+}
+h1{
+
+
+font-family: 'Chelsea Market', cursive;
 }
 
 #header{
