@@ -1,0 +1,97 @@
+html, body, div, span, applet, object, iframe,  
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,  
+a, abbr, acronym, address, big, cite, code,  
+del, dfn, em, img, ins, kbd, q, s, samp,  
+small, strike, strong, sub, sup, tt, var,  
+b, u, i, center,  
+dl, dt, dd, ol, ul, li,  
+fieldset, form, label, legend,  
+table, caption, tbody, tfoot, thead, tr, th, td,  
+article, aside, canvas, details, embed,  
+figure, figcaption, footer, header, hgroup,  
+menu, nav, output, ruby, section, summary,  
+time, mark, audio, video {  
+margin: 0;  
+padding: 0;  
+border: 0;  
+font-size: 100%;  
+font: inherit;  
+vertical-align: baseline;  
+}
+body {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+#footerimage{
+height:250px;
+background-image: url("assets/footer_img.jpg");
+background-position-y: -50px;
+}
+
+
+#maintext
+{
+    text-align:center;
+    flex:auto;
+
+}
+nav div {
+
+    
+    padding:1em;
+    border-radius: 2em;
+    margin-top:3em;
+    
+}
+nav {
+display:flex;
+justify-content: space-evenly;
+}
+#plan {
+    background-color:#ff764e;
+}
+#learn{
+    background-color: #5ed3eb;
+}
+#get{
+    background-color: #ffcd69;
+}
+.yoscontainer{
+    display:flex;
+    margin-top:2em;
+    margin: 2em 10% 
+
+}
+p{
+    margin-bottom:2em;
+    
+}
+#bottomnav{
+    background-color:#f9e7dc
+}
+#campfire, #bus{
+    width:15%;
+    margin:0 auto;
+}
+.secondtext{
+    margin:0 35% 2em;
+    text-align: center;
+}
+#brownbox{
+    background-color:#ddb9a3;
+    margin:0 5%;
+    padding:2em;
+
+}
+h1{
+    font-size: 3em;
+
+
+font-family: 'Chelsea Market', cursive;
+}
+
+#header{
+    border-radius:50%;
+    width:25%;
+
+}
